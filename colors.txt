@@ -1,5 +1,0 @@
-#0B3954 Blue
-#087E8B Teal
-#BFD7EA Columbian blue
-#FF5A5F Bitter Sweet
-#C81D25 Fire Engine Red
